@@ -18,7 +18,8 @@ import (
 	// m "leetcode/oct21/14_perfect_square"
 	// m "leetcode/oct21/15_buy_sell_stock"
 	// m "leetcode/oct21/16_buy_sell_stock_2"
-	m "leetcode/oct21/17_path_sum_3"
+	// m "leetcode/oct21/17_path_sum_3"
+	m "leetcode/oct21/18_cousins_in_bin"
 )
 
 func main() {
