@@ -19,7 +19,8 @@ import (
 	// m "leetcode/oct21/15_buy_sell_stock"
 	// m "leetcode/oct21/16_buy_sell_stock_2"
 	// m "leetcode/oct21/17_path_sum_3"
-	m "leetcode/oct21/18_cousins_in_bin"
+	// m "leetcode/oct21/18_cousins_in_bin"
+	m "leetcode/oct21/19_next_greater_element_1"
 )
 
 func main() {
