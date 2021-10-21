@@ -21,7 +21,8 @@ import (
 	// m "leetcode/oct21/17_path_sum_3"
 	// m "leetcode/oct21/18_cousins_in_bin"
 	// m "leetcode/oct21/19_next_greater_element_1"
-	m "leetcode/oct21/20_reverse_words_in_string"
+	// m "leetcode/oct21/20_reverse_words_in_string"
+	m "leetcode/oct21/21_insert_delete_random"
 )
 
 func main() {
