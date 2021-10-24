@@ -23,7 +23,8 @@ import (
 	// m "leetcode/oct21/19_next_greater_element_1"
 	// m "leetcode/oct21/20_reverse_words_in_string"
 	// m "leetcode/oct21/21_insert_delete_random"
-	m "leetcode/oct21/22_sort_character_by_freq"
+	// m "leetcode/oct21/22_sort_character_by_freq"
+	m "leetcode/oct21/23_find_min_in_rotated_sorted_array"
 )
 
 func main() {
