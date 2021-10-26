@@ -1,6 +1,6 @@
-// https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+// https://leetcode.com/problems/count-complete-tree-nodes/
 
-package findmininrotatedsortedarray
+package countcompletetreenodes
 
 func Input() *TreeNode {
 	in_arr := []int{1, 2, 3, 4, 5, 6, 7, 8}
