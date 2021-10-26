@@ -26,7 +26,8 @@ import (
 	// m "leetcode/oct21/22_sort_character_by_freq"
 	// m "leetcode/oct21/23_find_min_in_rotated_sorted_array"
 	// m "leetcode/oct21/24_count_complete_tree_nodes"
-	m "leetcode/oct21/25_min_stack"
+	// m "leetcode/oct21/25_min_stack"
+	m "leetcode/oct21/26_invert_bin_tree"
 )
 
 func main() {
