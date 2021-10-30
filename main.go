@@ -30,7 +30,8 @@ import (
 	// m "leetcode/oct21/26_invert_bin_tree"
 	// m "leetcode/oct21/27_sort_colors"
 	// m "leetcode/oct21/28_3sum"
-	m "leetcode/oct21/29_rotting_oranges"
+	// m "leetcode/oct21/29_rotting_oranges"
+	m "leetcode/oct21/30_longest_dup_substring"
 )
 
 func main() {
