@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	m "leetcode/nov21/03_sum_root_to_leaf"
+	m "leetcode/nov21/04_sum_of_left_leaves"
 )
 
 func main() {
