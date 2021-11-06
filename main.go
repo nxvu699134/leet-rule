@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	m "leetcode/nov21/05_arranging_coins"
+	m "leetcode/nov21/06_single_number_3"
 )
 
 func main() {
