@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	m "leetcode/nov21/08_unique_bin_search_trees"
+	m "leetcode/nov21/09_number_of_valid_word_for_puzzle"
 )
 
 func main() {
