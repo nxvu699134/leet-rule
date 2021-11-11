@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	m "leetcode/nov21/10_buy_sell_stock_2"
+	m "leetcode/nov21/11_min_value_to_get_positive"
 )
 
 func main() {
