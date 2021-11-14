@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	m "leetcode/nov21/12_remove_linked_list_element"
+	m "leetcode/nov21/13_daily_temperatures"
 )
 
 func main() {
