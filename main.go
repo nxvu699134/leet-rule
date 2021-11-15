@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	m "leetcode/nov21/13_daily_temperatures"
+	m "leetcode/nov21/14_iterator_for_combination"
 )
 
 func main() {
