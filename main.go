@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	m "leetcode/nov21/16_kth_smallest_num_in_multiplication_table"
+	m "leetcode/nov21/17_unique_paths"
 )
 
 func main() {
