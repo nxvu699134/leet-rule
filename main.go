@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	m "leetcode/nov21/19_hamming_distance"
+	m "leetcode/nov21/20_single_el_in_sorted_array"
 )
 
 func main() {
