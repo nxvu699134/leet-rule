@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	m "leetcode/nov21/24_interval_list_intersections"
+	m "leetcode/nov21/25_maximum_subarray"
 )
 
 func main() {
