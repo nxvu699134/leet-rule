@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	m "leetcode/nov21/27_product_of_array_except_self"
+	m "leetcode/nov21/28_all_paths_from_source_to_target"
 )
 
 func main() {
