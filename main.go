@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	m "leetcode/nov21/28_all_paths_from_source_to_target"
+	m "leetcode/nov21/29_accounts_merge"
 )
 
 func main() {
