@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	m "leetcode/nov21/30_maximal_rectangle"
+	m "leetcode/dec21/01_house_robber"
 )
 
 func main() {
